@@ -41,7 +41,7 @@ if (!isset($_SESSION['username'])) {
 <body>
     <div class="profile-box">
         <h1>Xin chào, <?php echo htmlspecialchars($_SESSION['username']); ?>!</h1>
-        <p>Chào mừng bạn đến với tiệm bánh của chúng mình ❤️</p>
+        <p>Chào mừng bạn đến với tiệm b của chúng mình ❤️</p>
         <a href="sign_in.php">Đăng xuất</a>
     </div>
 </body>

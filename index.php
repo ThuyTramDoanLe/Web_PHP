@@ -1,10 +1,4 @@
-<?php
-session_start();
-if (!isset($_SESSION['username'])) {
-    header('Location: sign_in.php');
-    exit();
-}
-?>
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
