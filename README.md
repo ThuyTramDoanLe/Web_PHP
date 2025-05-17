@@ -29,7 +29,7 @@ Nếu bạn thấy hữu ích, bạn có thể ủng hộ qua các phương th�
 - Trạng thái Pass/Fail
 👉 Xem chi tiết test case tại Google Sheets:  
 [📋 Link đến Test Case] ( https://docs.google.com/spreadsheets/d/1ZjVIchxWu79mxUUlx-z68BBP5N9uXuuUdJw7IFOBdXU/edit?usp=sharing )
-> 🔒 Lưu ý: Đảm bảo link Google Sheet được bật chế độ "Anyone with the link can view" để người khác có thể truy cập.
+
 
 📄 CÁC TRANG CÓ TRONG DỰ ÁN
     index.php - Trang chủ (Danh mục bánh, sản phẩm, liên kết MXH)
