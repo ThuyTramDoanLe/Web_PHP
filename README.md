@@ -20,6 +20,17 @@ Nếu bạn thấy hữu ích, bạn có thể ủng hộ qua các phương th�
     2. CSS
     3. Javascript
     4. PHP
+🔐 Test Cases: Đăng nhập & Đăng ký
+Đây là file tổng hợp test case chức năng Đăng nhập và Đăng ký của hệ thống. File bao gồm:
+- Các test case hợp lệ và không hợp lệ
+- Dữ liệu kiểm thử (Test Data)
+- Kết quả mong đợi và thực tế (Expected vs Actual Result)
+- Độ ưu tiên (Test Priority)
+- Trạng thái Pass/Fail
+👉 Xem chi tiết test case tại Google Sheets:  
+[📋 Link đến Test Case] ( https://docs.google.com/spreadsheets/d/1ZjVIchxWu79mxUUlx-z68BBP5N9uXuuUdJw7IFOBdXU/edit?usp=sharing )
+> 🔒 Lưu ý: Đảm bảo link Google Sheet được bật chế độ "Anyone with the link can view" để người khác có thể truy cập.
+
 📄 CÁC TRANG CÓ TRONG DỰ ÁN
     index.php - Trang chủ (Danh mục bánh, sản phẩm, liên kết MXH)
     style.css - CSS cho trang chủ
