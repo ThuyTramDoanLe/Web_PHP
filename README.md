@@ -1,8 +1,7 @@
 Tên thành viên: 
-    1. Đoàn Lê Thùy Trâm.
-    2. Đinh Thị Tuyết Nhung
+    1. Đoàn Lê Thùy Trâm
+    2. Đinh Thị Tuyết NHung
     3. Đoàn Thu Trang
-
 🍰 Enti Cake & Dessert - Tiệm Bánh Ngọt
 
 Website bán bánh ngọt được thiết kế bằng HTML, CSS, Javascript (Frontend), PHP (Backend).
